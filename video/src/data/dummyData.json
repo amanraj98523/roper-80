@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "videoUrl": "https://www.youtube.com/embed/vUkosQckVuQ?si=MoiG1iuPfMuQrJNQ",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "HTML stands for ?",
+      "options": ["Hyper Text Markup Language", "High Text Markup Language", "Hyperlinks and Text Markup Language","Home Tool Markup Language"],
+      "correctAnswer": "Hyper Text Markup Language"
+    }
+  },
+  {
+    "id": 2,
+    "videoUrl": "https://www.youtube.com/embed/XPv4EeB0PJ8?si=fIokSUBwK2czHPEv",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "CSS stands for?",
+      "options": ["Creative Style System", "Cascading Style Sheets", "Colorful Style Sheets","Computer Style System"],
+      "correctAnswer": "Cascading Style Sheets"
+    }
+  },
+  {
+    "id": 3,
+    "videoUrl":"https://www.youtube.com/embed/tpojyw8OYQI?si=-gxOE2_Em9lOUhjT",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "JS stand for?",
+      "options": ["Java Style", "JustScript", "JavaScript","Jolly Script"],
+      "correctAnswer": "JavaScript"
+    }
+  },
+  {
+    "id": 4,
+    "videoUrl": "https://www.youtube.com/embed/N3AkSS5hXMA?si=pn05sh36LFUVsRAe",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "what is react js?",
+      "options": ["A backend framework for building APIs", "A JavaScript library for building user interfaces", "A database management system","A CSS preprocessor for styling web pages"],
+      "correctAnswer": "A JavaScript library for building user interfaces"
+    }
+  },
+  {
+    "id": 5,
+    "videoUrl": "https://www.youtube.com/embed/ohIAiuHMKMI?si=dVWDPoo1Uwlp1-bj",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "what is node js?",
+      "options": ["A JavaScript library for building user interfaces", "A JavaScript runtime built on Chrome's V8 JavaScript engine", "A frontend framework for web development","A database for storing JavaScript code"],
+      "correctAnswer": "A JavaScript runtime built on Chrome's V8 JavaScript engine"
+    }
+  },
+  
+  {
+    "id": 6,
+    "videoUrl":"https://www.youtube.com/embed/0QRFOsrBtXw?si=WHgzjNXmCRL4a3ZQ",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "what is express js?",
+      "options": ["A database management tool for Node.js", "A web application framework for Node.js", "A library for styling web applications","A tool for creating desktop applications"],
+      "correctAnswer": "A web application framework for Node.js"
+    }
+  },
+  {
+    "id": 7,
+    "videoUrl": "https://www.youtube.com/embed/1oWPUpMheGk?si=uZ_IAmgzYXG9MsUY",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "what is middleware?",
+      "options": ["A type of hardware used in servers", "A function that sits between a request and a response in a web application", "A library for connecting databases to applications","A tool for debugging frontend applications"],
+      "correctAnswer": "A function that sits between a request and a response in a web application"
+    }
+  }
+]
